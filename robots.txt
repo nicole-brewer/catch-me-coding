@@ -1,1 +1,1 @@
-Sitemap: https://nicole-brewer.github.io/tech-blog/sitemap.xml
+Sitemap: https://nicole-brewer.com/catch-me-coding/sitemap.xml
